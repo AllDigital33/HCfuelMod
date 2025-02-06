@@ -12,7 +12,7 @@ We also were not fond of the two recovery bulkhead posts and their gasket washer
 SPECIAL CONSIDERATIONS
 
 This mod, as designed, will only work if you are using a standard 4” fiberglass airframe for your recovery section. That was an upgrade in our original build. The stock Mojave Sphinx uses a cardboard recovery airframe that cannot support the snap forces of the drogue with the relocated aft recovery bulkhead (anchor).   
-![image](https://github.com/user-attachments/assets/249ea774-9e4e-45db-bd0c-977d9c4be070)
+
 
 
 Read the attached PDF for more details.
